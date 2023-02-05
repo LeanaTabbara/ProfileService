@@ -1,0 +1,64 @@
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.csproj.AssemblyReference.cache
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.AssemblyInfoInputs.cache
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.AssemblyInfo.cs
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.csproj.CoreCompileInputs.cache
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/appsettings.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.deps.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.runtimeconfig.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.pdb
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.ProfileService.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.ProfileService.Web.props
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ProfileService.Web.props
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ProfileService.Web.props
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/scopedcss/bundle/ProfileService.Web.styles.css
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.csproj.CopyComplete
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/refint/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.pdb
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.genruntimeconfig.cache
+/Users/leanatabbara/Desktop/Spring 22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ref/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/appsettings.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.deps.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.runtimeconfig.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/ProfileService.Web.pdb
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.csproj.AssemblyReference.cache
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.AssemblyInfoInputs.cache
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.AssemblyInfo.cs
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.csproj.CoreCompileInputs.cache
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.ProfileService.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.ProfileService.Web.props
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ProfileService.Web.props
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ProfileService.Web.props
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/scopedcss/bundle/ProfileService.Web.styles.css
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.csproj.CopyComplete
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/refint/ProfileService.Web.dll
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.pdb
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ProfileService.Web.genruntimeconfig.cache
+/Users/leanatabbara/Desktop/Spring_22-23/EECE 503E/ProfileService/ProfileService.Web/obj/Debug/net6.0/ref/ProfileService.Web.dll
